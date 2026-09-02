@@ -1,5 +1,7 @@
-# ALKHAWARYZMI BRILLIANT
+# Nama : ALKHAWARYZMI BRILLIANT
 # NPM  : 2605060011
+# Rombel : 1
+# Tugas: Literal data
 
 
 #1 variabel dan tipe data
